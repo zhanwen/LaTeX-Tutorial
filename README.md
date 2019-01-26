@@ -1,6 +1,6 @@
 <div align='center'/>
-<img src="./images/latex.png" width = "45%" height = "50%" >
+<img src="./images/latex.png" width = "40%" height = "50%" >
 <div align='left'/>
-# LaTex 教程
+#LaTex 教程
 
 
